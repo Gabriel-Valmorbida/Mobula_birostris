@@ -29,7 +29,7 @@ form {
 
 }
 ~~~
-Voltando ao HTML, o codigo do botão é o mais simples de se fazer, basta a div class=button e ponhar type=submit
+Voltando ao HTML, o codigo do botão é o mais simples de se fazer, basta colocar div class=button e ponhar type=submit
 ~~~python
 <div class="button">
     <button type="submit">Enviar dados</button>
